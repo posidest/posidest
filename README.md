@@ -7,5 +7,5 @@
 - 🎨 Ask me about my creative process.
 - 💌 How to reach me: alana.lapoint@gmail.com
 - 🌈 Pronouns: she/her/hers
-- ⚡ Fun fact: I love musical theater.
+- ⚡ Fun fact: I love to host small costume parties.
 -->
