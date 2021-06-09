@@ -1,4 +1,7 @@
-### Hello! 👋
+### Hi, I'm Alana!
+
+A creative coder at my core with +15 years’ experience in the art field, I’m eager to launch a career in software engineering by leveraging my love for abstract problem solving, technical skills and keen eye for detail to provide meaningful and easy-to-use app experiences for users.
+I love to learn and tackle challenges head-on. Communication and collaboration are important to me, and I enjoy working with all types of people.
 
 - 🌱 I’m currently working on New Growth, a plant care app using Flask Python backend 
 - 🧠 I’m currently learning how to make my apps more accessible.
@@ -8,6 +11,7 @@
 - 🌈 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to host small costume parties.
 
+### Skills
 ![javascript](https://camo.githubusercontent.com/9d07c04bdd98c662d5df9d4e1cc1de8446ffeaebca330feb161f1fb8e1188204/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)
 ![python](https://camo.githubusercontent.com/94be0a2e5be142925615e5821d97137a930d08fc154962ce43860f1957e6661e/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f507974686f6e2d3337373641423f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d7768697465)
 ![react](https://camo.githubusercontent.com/268ac512e333b69600eb9773a8f80b7a251f4d6149642a50a551d4798183d621/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656163742d3230323332413f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d363144414642)
