@@ -3,7 +3,7 @@
 A creative coder at my core with +15 years’ experience in the art field, I’m eager to launch a career in software engineering by leveraging my love for abstract problem solving, technical skills and keen eye for detail to provide meaningful and easy-to-use app experiences for users.
 I love to learn and tackle challenges head-on. Communication and collaboration are important to me, and I enjoy working with all types of people.
 
-- 🌱 I’m currently working on a children's story book app using Flask / Python back end and React / Redux front end 
+- 🌱 I’m currently working on a story book app for kids using Flask / Python back end and React / Redux front end 
 - 🧠 I’m currently learning how to make my apps more accessible.
 - 🙌 I’m looking to collaborate on technical interview practice. 
 - 🎨 Ask me about my creative process.
